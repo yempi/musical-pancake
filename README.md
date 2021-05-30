@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is an AI training to play Snake via Reinforcement Learning.
 	
 ## Technologies
 Project is created with:
@@ -18,3 +18,6 @@ To run this project, install it locally using Terminal:
 ```
 $ python3 agent.py
 ```
+
+##
+
