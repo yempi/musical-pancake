@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Sources](#sources)
 
 ## General info
 This project is an AI training to play Snake via Reinforcement Learning with PyTorch and Pygame.
@@ -21,4 +22,4 @@ $ python3 agent.py
 ```
 
 ## Sources
-This project is inspired by Patrick Loeber project 'Teach AI to play Snake!'(https://github.com/python-engineer/snake-ai-pytorch)
+This project is inspired by Patrick Loeber's project 'Teach AI to play Snake!'(https://github.com/python-engineer/snake-ai-pytorch)
