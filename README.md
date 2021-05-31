@@ -5,7 +5,7 @@
 * [Sources](#sources)
 
 ## General info
-This project is an AI training to play Snake via Reinforcement Learning with PyTorch and Pygame.
+In this project we can teach an AI to play Snake, creating the game with Pygame and the Deep Learning algorithm with PyTorch. We release the agent into the environment with zero knowledge about how to play the game and implement a reward system in order to teach it how to keep increasing the top score.
 	
 ## Technologies
 Project is created with:
